@@ -3,10 +3,13 @@
 <head>
   <title>Cathfall</title>
   <%= csrf_meta_tags %>
+  <link href="http://vjs.zencdn.net/6.6.3/video-js.css" rel="stylesheet">
 
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= stylesheet_link_tag    'controllers/' + params[:controller], media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  <!-- If you'd like to support IE8 -->
+  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>  
 </head>
 
 <body>
@@ -37,7 +40,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
             <%=render('devise/current_user')%>
-        
+
         </div>
 
 
@@ -46,7 +49,7 @@
   </nav>
   <!-- navbar end -->
 
-  <div id="main-container" class="fluid-container">
+  <div id="main-container" class="container">
     <div class="row">
       <div class="col-xs-12">
         <%= yield %>

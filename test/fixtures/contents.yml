@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  url: MyString
+  protocol: 1
+  drm_encripted: false
+  username: MyString
+  password: MyString
+  service: one
+
+two:
+  title: MyString
+  description: MyText
+  url: MyString
+  protocol: 1
+  drm_encripted: false
+  username: MyString
+  password: MyString
+  service: two
