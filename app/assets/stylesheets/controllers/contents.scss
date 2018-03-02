@@ -1,3 +1,15 @@
 // Place all the styles related to the contents controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.cf-img-poster{
+//  Resize perfectly images
+  width: 180px;
+  min-width: 25%;
+  height: 250px;
+  object-fit: cover;
+  overflow: hidden;
+  object-position: 25% 50%;
+  transition: 1s all;
+   margin-bottom: 5px;
+}

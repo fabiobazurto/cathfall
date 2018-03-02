@@ -3,13 +3,15 @@
 <head>
   <title>Cathfall</title>
   <%= csrf_meta_tags %>
-  <link href="http://vjs.zencdn.net/6.6.3/video-js.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.plyr.io/1.8.2/plyr.css">
 
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= stylesheet_link_tag    'controllers/' + params[:controller], media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-  <!-- If you'd like to support IE8 -->
-  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>  
+
+
+
 </head>
 
 <body>

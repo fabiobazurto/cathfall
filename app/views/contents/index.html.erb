@@ -1,7 +1,14 @@
 <h1><%= @service.name%></h1>
-
-<ul>
+<div class="container">
+<div class="row">
   <%@contents.each do |content|%>
-    <%=content.name%>
+      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-2 ">
+        <div class="image-wrapper">
+      <%=link_to(content_path(content.id)) do%>
+        <%=image_tag("library/"+content.poster,class:"cf-img-poster img-responsive")%>
+      <%end%>
+    </div>
+      </div>
   <%end%>
-</ul>
+</div>
+</div>

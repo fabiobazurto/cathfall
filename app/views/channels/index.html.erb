@@ -1,5 +1,9 @@
 <ul>
 <% @services.each do |service| %>
-  <li><%=link_to service.name, "/contents/#{service.id}" %></li>
+  <li>
+    <%=link_to service.name, content_path(service.contents.first.id) if service.live? and service.contents.count<2 %>
+    <%=link_to service.name, service_on_contents_path(service.id) if service.live? and service.contents.size>1 %>
+    <%=link_to service.name, service_on_contents_path(service.id) if service.vod?%>
+  </li>
 <% end %>
 </ul>
