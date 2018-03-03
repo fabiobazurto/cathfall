@@ -1,3 +1,27 @@
-<h1><%= @service.name%></h1>
-<h1><%= @content.title%></h1>
-<%=render partial: 'contents/player', locals:{content:@content} %>
+<%#render partial: 'contents/player', locals:{content:@content} %>
+<p></p>
+<div class="fluid-container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 ">
+      <video preload="none" id="player" data-content-media="<%=@content.url%>" data-content-prt="<%=@content.protocol%>" autoplay controls crossorigin>
+        <%if @content.protocol=="mp4"%>
+        <source src="<%=@content.url%>" type="video/mp4">
+          <%end%>
+      </video>
+    </div>
+
+
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+      <h2><%= @content.title%></h2>
+      <label>Duration:</label>&nbsp;<%=@content.duration%>
+      <%#image_tag(@content.poster,class:"cf-img-poster img-responsive")%>
+      <p><%=@content.description.html_safe%></p>
+      <p><%=link_to "Watch trailer", @content.trailer%></p>
+
+      <%=link_to "Back to " + @service.name, contents_path(@service.id)%>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.plyr.io/1.8.2/plyr.js"></script>
+<script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>

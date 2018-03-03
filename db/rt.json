@@ -1,0 +1,686 @@
+{
+  "results": [
+    {
+      "id": 771401855,
+      "title": "Black Panther",
+      "url": "/m/black_panther_2018",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 97,
+      "popcornIcon": "upright",
+      "popcornScore": 79,
+      "theaterReleaseDate": "Feb 16",
+      "mpaaRating": "PG13",
+      "synopsis": "<em>Black Panther</em> elevates superhero cinema to thrilling new heights while telling one of the MCU's most absorbing stories -- and introducing some of its most fully realized characters.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 15 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/tq_4lonVWOTD",
+        "id": "11304487"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU1NzcyNTtqOzE3NjUwOzEyMDA7MTY4ODsyNTAw",
+        "primary": "https://resizing.flixster.com/lihJBPrDBXVyNMgJ-Fi-AKdh9Aw=/130x0/v1.bTsxMjU1NzcyNTtqOzE3NjUwOzEyMDA7MTY4ODsyNTAw"
+      },
+      "actors": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ]
+    },
+    {
+      "id": 771472356,
+      "title": "Game Night",
+      "url": "/m/game_night_2018",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 82,
+      "popcornIcon": "upright",
+      "popcornScore": 84,
+      "theaterReleaseDate": "Feb 23",
+      "mpaaRating": "R",
+      "synopsis": "With a talented cast turned loose on a loaded premise -- and a sharp script loaded with dark comedy and unexpected twists -- <em>Game Night</em> might be more fun than the real thing.",
+      "synopsisType": "consensus",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/MtGMe7BA0oGF",
+        "id": "11304810"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY1MTEzMDtqOzE3NjUxOzEyMDA7MjcwOzQwMA",
+        "primary": "https://resizing.flixster.com/t0i8DW1yHh1827gMtYoTwUqFSgk=/130x0/v1.bTsxMjY1MTEzMDtqOzE3NjUxOzEyMDA7MjcwOzQwMA"
+      },
+      "actors": [
+        "Jason Bateman",
+        "Rachel McAdams",
+        "Sharon Horgan"
+      ]
+    },
+    {
+      "id": 771475525,
+      "title": "Annihilation",
+      "url": "/m/annihilation",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 86,
+      "popcornIcon": "upright",
+      "popcornScore": 66,
+      "theaterReleaseDate": "Feb 23",
+      "mpaaRating": "R",
+      "synopsis": "<em>Annihilation</em> backs up its sci-fi visual wonders and visceral genre thrills with an impressively ambitious -- and surprisingly strange -- exploration of challenging themes that should leave audiences pondering long after the end credits roll.",
+      "synopsisType": "consensus",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/6a3gdpy14M2U",
+        "id": "11303661"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjYzNTAwNDtqOzE3NjUxOzEyMDA7MTkyMjsyOTk5",
+        "primary": "https://resizing.flixster.com/6R7rWYJOHM0XhCyRvS2gPWWNrCo=/130x0/v1.bTsxMjYzNTAwNDtqOzE3NjUxOzEyMDA7MTkyMjsyOTk5"
+      },
+      "actors": [
+        "Natalie Portman",
+        "Jennifer Jason Leigh",
+        "Gina Rodriguez"
+      ]
+    },
+    {
+      "id": 771423058,
+      "title": "Jumanji: Welcome to the Jungle",
+      "url": "/m/jumanji_welcome_to_the_jungle",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 76,
+      "popcornIcon": "upright",
+      "popcornScore": 89,
+      "theaterReleaseDate": "Dec 20",
+      "dvdReleaseDate": "Mar 20",
+      "mpaaRating": "PG13",
+      "synopsis": "<em>Jumanji: Welcome to the Jungle</em> uses a charming cast and a humorous twist to offer an undemanding yet solidly entertaining update on its source material.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 52 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/_Fw5o4jFL_gm",
+        "id": "11301439"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjUzMzQyMTtqOzE3NjUwOzEyMDA7MjAyNTszMDAw",
+        "primary": "https://resizing.flixster.com/4ESRf2Yv_RSzJfyQX_PynCavF0s=/130x0/v1.bTsxMjUzMzQyMTtqOzE3NjUwOzEyMDA7MjAyNTszMDAw"
+      },
+      "actors": [
+        "Dwayne Johnson",
+        "Jack Black",
+        "Kevin Hart"
+      ]
+    },
+    {
+      "id": 771452526,
+      "title": "Early Man",
+      "url": "/m/early_man",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 81,
+      "popcornIcon": "spilled",
+      "popcornScore": 57,
+      "theaterReleaseDate": "Feb 16",
+      "mpaaRating": "PG",
+      "synopsis": "<em>Early Man</em> isn't quite as evolved as Aardman's best work, but still retains the unique visuals and sweet humor that have made the studio a favorite among animation enthusiasts.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 29 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/EThAY7qmCx_R",
+        "id": "11304485"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY0MTk2NTtqOzE3NjUxOzEyMDA7Mzc1MDs1NzAw",
+        "primary": "https://resizing.flixster.com/ljVyxb_UfegXTz56kLegs49HD-w=/130x0/v1.bTsxMjY0MTk2NTtqOzE3NjUxOzEyMDA7Mzc1MDs1NzAw"
+      },
+      "actors": [
+        "Eddie Redmayne",
+        "Tom Hiddleston",
+        "Maisie Williams"
+      ]
+    },
+    {
+      "id": 771439693,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "url": "/m/three_billboards_outside_ebbing_missouri",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 92,
+      "popcornIcon": "upright",
+      "popcornScore": 87,
+      "theaterReleaseDate": "Dec 1",
+      "dvdReleaseDate": "Feb 27",
+      "mpaaRating": "R",
+      "synopsis": "<em>Three Billboards Outside Ebbing, Missouri</em> deftly balances black comedy against searing drama -- and draws unforgettable performances from its veteran cast along the way.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 55 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/OBt7wFYnjIpa",
+        "id": "11303199"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjM0NTY3NTtqOzE3NjQ3OzEyMDA7NjM5Ozk0Ng",
+        "primary": "https://resizing.flixster.com/83LprFESBJp89D_UlK2Eai6vHbk=/130x0/v1.bTsxMjM0NTY3NTtqOzE3NjQ3OzEyMDA7NjM5Ozk0Ng"
+      },
+      "actors": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell"
+      ]
+    },
+    {
+      "id": 771471822,
+      "title": "The Post",
+      "url": "/m/the_post",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 88,
+      "popcornIcon": "upright",
+      "popcornScore": 73,
+      "theaterReleaseDate": "Jan 12",
+      "mpaaRating": "PG13",
+      "synopsis": "<em>The Post</em>'s period setting belies its bitingly timely themes, brought compellingly to life by director Steven Spielberg and an outstanding ensemble cast.",
+      "synopsisType": "consensus",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/0rjL3qwP4rdB",
+        "id": "11302809"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU3NzQyMjtqOzE3NjUwOzEyMDA7NTQwOzgwMA",
+        "primary": "https://resizing.flixster.com/ocH2IAr-ckV3mn1oo5dFsVP_OIA=/130x0/v1.bTsxMjU3NzQyMjtqOzE3NjUwOzEyMDA7NTQwOzgwMA"
+      },
+      "actors": [
+        "Tom Hanks",
+        "Meryl Streep",
+        "Alison Brie"
+      ]
+    },
+    {
+      "id": 771471555,
+      "title": "The Shape of Water",
+      "url": "/m/the_shape_of_water_2017",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 92,
+      "popcornIcon": "upright",
+      "popcornScore": 77,
+      "theaterReleaseDate": "Dec 22",
+      "dvdReleaseDate": "Mar 13",
+      "mpaaRating": "R",
+      "synopsis": "<em>The Shape of Water</em> finds Guillermo del Toro at his visually distinctive best -- and matched by an emotionally absorbing story brought to life by a stellar Sally Hawkins performance.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 59 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/eliHVy40IejM",
+        "id": "11299836"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU2MTA5MDtqOzE3NjUwOzEyMDA7MTM4MjsyMDQ4",
+        "primary": "https://resizing.flixster.com/UG8RHu-RdgxwKbgU20d1Ja5ESQg=/130x0/v1.bTsxMjU2MTA5MDtqOzE3NjUwOzEyMDA7MTM4MjsyMDQ4"
+      },
+      "actors": [
+        "Sally Hawkins",
+        "Michael Shannon",
+        "Richard Jenkins"
+      ]
+    },
+    {
+      "id": 771449469,
+      "title": "Phantom Thread",
+      "url": "/m/phantom_thread",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 91,
+      "popcornIcon": "upright",
+      "popcornScore": 70,
+      "theaterReleaseDate": "Jan 19",
+      "dvdReleaseDate": "Mar 27",
+      "mpaaRating": "R",
+      "synopsis": "<em>Phantom Thread</em>'s finely woven narrative is filled out nicely by humor, intoxicating romantic tension, and yet another impressively committed performance from Daniel Day-Lewis.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 10 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/WCO8nvbXNgZs",
+        "id": "11302354"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY0OTI2MjtqOzE3NjUxOzEyMDA7MTk0NDsyODgw",
+        "primary": "https://resizing.flixster.com/5uUeL5p2N0NnzrGSZVkcBXruKz4=/130x0/v1.bTsxMjY0OTI2MjtqOzE3NjUxOzEyMDA7MTk0NDsyODgw"
+      },
+      "actors": [
+        "Daniel Day-Lewis",
+        "Lesley Manville",
+        "Vicky Krieps"
+      ]
+    },
+    {
+      "id": 771449129,
+      "title": "Darkest Hour",
+      "url": "/m/darkest_hour_2017",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 86,
+      "popcornIcon": "upright",
+      "popcornScore": 83,
+      "theaterReleaseDate": "Dec 22",
+      "dvdReleaseDate": "Feb 27",
+      "mpaaRating": "PG13",
+      "synopsis": "<em>Darkest Hour</em> is held together by Gary Oldman's electrifying performance, which brings Winston Churchill to life even when the movie's narrative falters.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 5 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/KL12ltTxKJ1O",
+        "id": "11303232"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY0OTI2MTtqOzE3NjUxOzEyMDA7Mjc2NDs0MDk2",
+        "primary": "https://resizing.flixster.com/V5cJztUUaFE3nw9m7mAKf9esTOY=/130x0/v1.bTsxMjY0OTI2MTtqOzE3NjUxOzEyMDA7Mjc2NDs0MDk2"
+      },
+      "actors": [
+        "Gary Oldman",
+        "Kristin Scott Thomas",
+        "Stephen Dillane"
+      ]
+    },
+    {
+      "id": 771436849,
+      "title": "Lady Bird",
+      "url": "/m/lady_bird",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 99,
+      "popcornIcon": "upright",
+      "popcornScore": 81,
+      "theaterReleaseDate": "Nov 3",
+      "dvdReleaseDate": "Mar 6",
+      "mpaaRating": "R",
+      "synopsis": "<em>Lady Bird</em> delivers fresh insights about the turmoil of adolescence -- and reveals writer-director Greta Gerwig as a fully formed filmmaking talent.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 33 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/HOBuyrQggMgp",
+        "id": "11300988"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU2MjE4MDtqOzE3NjUwOzEyMDA7NTE1MDs3NjA2",
+        "primary": "https://resizing.flixster.com/jwPm_-pKl1UYQJMCBvUK0zzUqjY=/130x0/v1.bTsxMjU2MjE4MDtqOzE3NjUwOzEyMDA7NTE1MDs3NjA2"
+      },
+      "actors": [
+        "Saoirse Ronan",
+        "Laurie Metcalf",
+        "Tracy Letts"
+      ]
+    },
+    {
+      "id": 771483643,
+      "title": "I, Tonya",
+      "url": "/m/i_tonya",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 90,
+      "popcornIcon": "upright",
+      "popcornScore": 89,
+      "theaterReleaseDate": "Jan 19",
+      "dvdReleaseDate": "Mar 13",
+      "mpaaRating": "R",
+      "synopsis": "Led by strong work from Margot Robbie and Alison Janney, <em>I, Tonya</em> finds the humor in its real-life story without losing sight of its more tragic -- and emotionally resonant -- elements.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 59 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/IRV7slDqtBHc",
+        "id": "11302527"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU2Nzg3OTtwOzE3NjUwOzEyMDA7Mjc0OzQwOA",
+        "primary": "https://resizing.flixster.com/zaV12IN1hFDazjHkFN1L0fXrlH0=/130x0/v1.bTsxMjU2Nzg3OTtwOzE3NjUwOzEyMDA7Mjc0OzQwOA"
+      },
+      "actors": [
+        "Margot Robbie",
+        "Sebastian Stan",
+        "Allison Janney"
+      ]
+    },
+    {
+      "id": 771467412,
+      "title": "Call Me by Your Name",
+      "url": "/m/call_me_by_your_name",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 96,
+      "popcornIcon": "upright",
+      "popcornScore": 86,
+      "theaterReleaseDate": "Jan 19",
+      "dvdReleaseDate": "Mar 13",
+      "mpaaRating": "R",
+      "synopsis": "<em>Call Me by Your Name</em> offers a melancholy, powerfully affecting portrait of first love, empathetically acted by Timothée Chalamet and Armie Hammer.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 10 min.",
+      "posters": {
+        "thumborId": "v1.bTsxMjQ4MjQwMjtqOzE3NjQ5OzEyMDA7NjQ4Ozk2MA",
+        "primary": "https://resizing.flixster.com/tkuker1LvYv5xf8Tm80HhbiIdgg=/130x0/v1.bTsxMjQ4MjQwMjtqOzE3NjQ5OzEyMDA7NjQ4Ozk2MA"
+      },
+      "actors": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg"
+      ]
+    },
+    {
+      "id": 771426867,
+      "title": "Coco",
+      "url": "/m/coco_2017",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 97,
+      "popcornIcon": "upright",
+      "popcornScore": 95,
+      "theaterReleaseDate": "Nov 22",
+      "dvdReleaseDate": "Feb 27",
+      "mpaaRating": "PG",
+      "synopsis": "<em>Coco</em>'s rich visual pleasures are matched by a thoughtful narrative that takes a family-friendly -- and deeply affecting -- approach to questions of culture, family, life, and death.",
+      "synopsisType": "consensus",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/a9F09OENnnwC",
+        "id": "11302922"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjUxNDk5MztwOzE3NjQ5OzEyMDA7NDY1OzY4OA",
+        "primary": "https://resizing.flixster.com/ha5AVC5ruLY32FmPHpscnO9jGf8=/130x0/v1.bTsxMjUxNDk5MztwOzE3NjQ5OzEyMDA7NDY1OzY4OA"
+      },
+      "actors": [
+        "Anthony Gonzalez (VIII) ",
+        "Gael García Bernal",
+        "Benjamin Bratt"
+      ]
+    },
+    {
+      "id": 771382945,
+      "title": "Star Wars: The Last Jedi",
+      "url": "/m/star_wars_the_last_jedi",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 90,
+      "popcornIcon": "spilled",
+      "popcornScore": 48,
+      "theaterReleaseDate": "Dec 15",
+      "dvdReleaseDate": "Mar 27",
+      "mpaaRating": "PG13",
+      "synopsis": "<em>Star Wars: The Last Jedi</em> honors the saga's rich legacy while adding some surprising twists -- and delivering all the emotion-rich action fans could hope for.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 32 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/z2VSLyhRD6Jy",
+        "id": "11302048"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU0NjIzNDtqOzE3NjUwOzEyMDA7MTY4ODsyNTAw",
+        "primary": "https://resizing.flixster.com/BTUDlfL8qqO4oEe9NUOggyegN7Q=/130x0/v1.bTsxMjU0NjIzNDtqOzE3NjUwOzEyMDA7MTY4ODsyNTAw"
+      },
+      "actors": [
+        "Daisy Ridley",
+        "Domhnall Gleeson",
+        "Adam Driver"
+      ]
+    },
+    {
+      "id": 771468944,
+      "title": "Paddington 2",
+      "url": "/m/paddington_2",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 100,
+      "popcornIcon": "upright",
+      "popcornScore": 89,
+      "theaterReleaseDate": "Jan 12",
+      "dvdReleaseDate": "Apr 24",
+      "mpaaRating": "PG",
+      "synopsis": "<em>Paddington 2</em> honors its star's rich legacy with a sweet-natured sequel whose adorable visuals are matched by a story perfectly balanced between heartwarming family fare and purely enjoyable all-ages adventure.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 45 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/dD7A37xSUKt3",
+        "id": "11303909"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY0MTAwNDtqOzE3NjUxOzEyMDA7Mjc2NDs0MDk2",
+        "primary": "https://resizing.flixster.com/tOc5AF_Zbe7QhhKIO13p-VCOqOk=/130x0/v1.bTsxMjY0MTAwNDtqOzE3NjUxOzEyMDA7Mjc2NDs0MDk2"
+      },
+      "actors": [
+        "Hugh Grant",
+        "Ben Whishaw",
+        "Brendan Gleeson"
+      ]
+    },
+    {
+      "id": 771475430,
+      "title": "Mary and The Witch's Flower",
+      "url": "/m/mary_and_the_witchs_flower",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 84,
+      "popcornIcon": "upright",
+      "popcornScore": 77,
+      "theaterReleaseDate": "Jan 19",
+      "mpaaRating": "PG",
+      "synopsis": "<em>Mary and the Witch's Flower</em> honors its creator's Studio Ghibli roots with a gentle, beautifully animated story whose simplicity is rounded out by its entrancing visuals.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 42 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/csD0l_hMIevR",
+        "id": "11303911"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU3MDQwMDtqOzE3NjUwOzEyMDA7MTAxNjsxNDg1",
+        "primary": "https://resizing.flixster.com/6tT9RuWuFJMHgXX0ccIxw-H95bM=/130x0/v1.bTsxMjU3MDQwMDtqOzE3NjUwOzEyMDA7MTAxNjsxNDg1"
+      },
+      "actors": [
+        "Hana Sugisaki",
+        "Ryûnosuke Kamiki",
+        "Yuki Amami"
+      ]
+    },
+    {
+      "id": 771445246,
+      "title": "Wonder",
+      "url": "/m/wonder",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 85,
+      "popcornIcon": "upright",
+      "popcornScore": 89,
+      "theaterReleaseDate": "Nov 17",
+      "dvdReleaseDate": "Feb 13",
+      "mpaaRating": "PG",
+      "synopsis": "<em>Wonder</em> doesn't shy away from its bestselling source material's sentiment, but this well-acted and overall winsome drama earns its tugs at the heartstrings.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 53 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/BVLZCrPZi5LL",
+        "id": "11302255"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU4MTQ4MztqOzE3NjUwOzEyMDA7MzYwMDs1NTUw",
+        "primary": "https://resizing.flixster.com/dBNCnauz-INCVHBzUq0GlNuDPfI=/130x0/v1.bTsxMjU4MTQ4MztqOzE3NjUwOzEyMDA7MzYwMDs1NTUw"
+      },
+      "actors": [
+        "Julia Roberts",
+        "Owen Wilson",
+        "Jacob Tremblay"
+      ]
+    },
+    {
+      "id": 771468629,
+      "title": "A Fantastic Woman (Una mujer fantástica)",
+      "url": "/m/a_fantastic_woman",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 94,
+      "popcornIcon": "upright",
+      "popcornScore": 83,
+      "theaterReleaseDate": "Feb 2",
+      "mpaaRating": "R",
+      "synopsis": "Subtle and tender, <em>A Fantastic Woman</em> handles its timely, sensitive subject matter with care.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 40 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/vzEJRUkMSbDk",
+        "id": "11301132"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjUxMDE3NjtqOzE3NjQ5OzEyMDA7MTAzMzI7MTUzMTQ",
+        "primary": "https://resizing.flixster.com/r-k9B9WoN55UWPTjR8rvRvEuIVs=/130x0/v1.bTsxMjUxMDE3NjtqOzE3NjQ5OzEyMDA7MTAzMzI7MTUzMTQ"
+      },
+      "actors": [
+        "Daniela Vega",
+        "Francisco Reyes",
+        "Luis Gnecco"
+      ]
+    },
+    {
+      "id": 771401871,
+      "title": "Thor: Ragnarok",
+      "url": "/m/thor_ragnarok_2017",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 92,
+      "popcornIcon": "upright",
+      "popcornScore": 88,
+      "theaterReleaseDate": "Nov 3",
+      "dvdReleaseDate": "Mar 6",
+      "mpaaRating": "PG13",
+      "synopsis": "Exciting, funny, and above all fun, <em>Thor: Ragnarok</em> is a colorful cosmic adventure that sets a new standard for its franchise -- and the rest of the Marvel Cinematic Universe.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 10 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/Mqk3YdFrpcYL",
+        "id": "11304486"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjQ2NDczNjtqOzE3NjQ5OzEyMDA7MTY4ODsyNTAw",
+        "primary": "https://resizing.flixster.com/AI8kdu2YKp-U_MMsJdiAIvMMIe0=/130x0/v1.bTsxMjQ2NDczNjtqOzE3NjQ5OzEyMDA7MTY4ODsyNTAw"
+      },
+      "actors": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Mark Ruffalo"
+      ]
+    },
+    {
+      "id": 771436168,
+      "title": "Molly's Game",
+      "url": "/m/mollys_game",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 82,
+      "popcornIcon": "upright",
+      "popcornScore": 85,
+      "theaterReleaseDate": "Jan 5",
+      "dvdReleaseDate": "Mar 27",
+      "mpaaRating": "R",
+      "synopsis": "Powered by an intriguing story and a pair of outstanding performances from Jessica Chastain and Idris Elba, <em>Molly's Game</em> marks a solid debut for writer-director Aaron Sorkin.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 20 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/7kf4dCtZPag1",
+        "id": "11301914"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU1NTM5NztqOzE3NjUwOzEyMDA7MTk0NDsyODgx",
+        "primary": "https://resizing.flixster.com/xBSC4WEV0RCuNfI-v65Heg5CkHo=/130x0/v1.bTsxMjU1NTM5NztqOzE3NjUwOzEyMDA7MTk0NDsyODgx"
+      },
+      "actors": [
+        "Jessica Chastain",
+        "Idris Elba",
+        "Kevin Costner"
+      ]
+    },
+    {
+      "id": 771468639,
+      "title": "The Party",
+      "url": "/m/the_party_2018",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 85,
+      "popcornIcon": "upright",
+      "popcornScore": 63,
+      "theaterReleaseDate": "Feb 16",
+      "mpaaRating": "R",
+      "synopsis": "Old-fashioned charm meets sharp wit and modern social satire in <em>The Party</em>, a biting comedy carried by a shining performance from Patricia Clarkson.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 11 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/GwJAEd29QT9a",
+        "id": "11303127"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU4NDE3NjtqOzE3NjUwOzEyMDA7MjAyNTszMDAw",
+        "primary": "https://resizing.flixster.com/90O8dd6jLFEnQ0SG96DOHWmx-Qg=/130x0/v1.bTsxMjU4NDE3NjtqOzE3NjUwOzEyMDA7MjAyNTszMDAw"
+      },
+      "actors": [
+        "Patricia Clarkson",
+        "Bruno Ganz",
+        "Cherry Jones"
+      ]
+    },
+    {
+      "id": 771474804,
+      "title": "The Insult (L'insulte)",
+      "url": "/m/the_insult",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 88,
+      "popcornIcon": "upright",
+      "popcornScore": 91,
+      "theaterReleaseDate": "Jan 12",
+      "dvdReleaseDate": "May 1",
+      "mpaaRating": "R",
+      "synopsis": "<em>The Insult</em> uses its familiar courtroom drama framework to deliver a hard-hitting statement on modern Middle Eastern politics that's as gripping as it is thought-provoking.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 53 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/2I6ufDJx_mnb",
+        "id": "11303128"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjY1NTk0NDtqOzE3NjUxOzEyMDA7MTk0NDsyODgw",
+        "primary": "https://resizing.flixster.com/UaHairEplBOpmw9fBs6Ev5kF7JA=/130x0/v1.bTsxMjY1NTk0NDtqOzE3NjUxOzEyMDA7MTk0NDsyODgw"
+      },
+      "actors": [
+        "Kamel El Basha",
+        "Adel Karam",
+        "Camille Salameh"
+      ]
+    },
+    {
+      "id": 771473514,
+      "title": "Film Stars Don't Die in Liverpool",
+      "url": "/m/film_stars_dont_die_in_liverpool",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 80,
+      "popcornIcon": "upright",
+      "popcornScore": 71,
+      "theaterReleaseDate": "Dec 29",
+      "mpaaRating": "R",
+      "synopsis": "<em>Film Stars Don't Die in Liverpool</em> showcases brilliant work from Annette Bening, whose performance is more than enough to outweigh this biopic's basic narrative.",
+      "synopsisType": "consensus",
+      "runtime": "1 hr. 45 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/Uup0bRBP4uBA",
+        "id": "11303202"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjU5MTQwOTtqOzE3NjUwOzEyMDA7NjQ0Ozk2MA",
+        "primary": "https://resizing.flixster.com/OXjhaw8HNmpSScF2lsljg6sIqYI=/130x0/v1.bTsxMjU5MTQwOTtqOzE3NjUwOzEyMDA7NjQ0Ozk2MA"
+      },
+      "actors": [
+        "Annette Bening",
+        "Jamie Bell",
+        "Julie Walters"
+      ]
+    },
+    {
+      "id": 771472701,
+      "title": "Loveless (Nelyubov)",
+      "url": "/m/loveless_2018",
+      "tomatoIcon": "certified_fresh",
+      "tomatoScore": 94,
+      "popcornIcon": "upright",
+      "popcornScore": 87,
+      "theaterReleaseDate": "Feb 16",
+      "mpaaRating": "R",
+      "synopsis": "<em>Loveless</em> uses its riveting portrait of a family in crisis to offer thought-provoking commentary on modern life in Russia -- and the world beyond its borders.",
+      "synopsisType": "consensus",
+      "runtime": "2 hr. 9 min.",
+      "mainTrailer": {
+        "sourceId": "http://link.theplatform.com/s/NGweTC/media/jH5WGWTLqFxs",
+        "id": "11303684"
+      },
+      "posters": {
+        "thumborId": "v1.bTsxMjYwNDgxMztqOzE3NjUwOzEyMDA7NzQ1OzExMDA",
+        "primary": "https://resizing.flixster.com/Gh4yWpIp-1LbyIW3b555sbo9XrE=/130x0/v1.bTsxMjYwNDgxMztqOzE3NjUwOzEyMDA7NzQ1OzExMDA"
+      },
+      "actors": [
+        "Maryana Spivak",
+        "Aleksey Rozin",
+        "Matvey Novikov"
+      ]
+    }
+  ]
+}

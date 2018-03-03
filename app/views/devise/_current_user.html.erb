@@ -1,5 +1,17 @@
 <ul class="nav navbar-nav navbar-right">
 
+  <%@services.each do |service|%>
+  <li><p class="navbar-text">
+
+      <%=link_to service.name, content_path(service.contents.first.id) if service.live? and service.contents.count<2 %>
+      <%=link_to service.name, service_on_contents_path(service.id) if service.live? and service.contents.size>1 %>
+      <%=link_to service.name, service_on_contents_path(service.id) if service.vod?%>
+    
+  </p>
+  </li>
+  <%end%>
+
+
 <%if user_signed_in?%>
 
   <li><p class="navbar-text"><%=current_user.email%></p>
@@ -13,5 +25,7 @@
   <li><p class="navbar-text"><%=link_to( "Sign in",new_user_session_path) %></p>
   </li>
 <%end%>
+
+
 
 </ul>

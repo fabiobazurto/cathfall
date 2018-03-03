@@ -2,14 +2,18 @@
 # All this logic will automatically be available in application.js.
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
-$ ->
-  video = document.querySelector('#player');
+ready = ->
+  video = document.querySelector('#player')
+
   if video
-    if Hls.isSupported()
+    protocol = video.dataset.contentPrt
+    damedia = video.dataset.contentMedia
+    if Hls.isSupported() and protocol == "hls"
       hls = new Hls()
-      hls.loadSource video.dataset.contentMedia
+      hls.loadSource damedia
       hls.attachMedia video
       hls.on Hls.Events.MANIFEST_PARSED, ->
         video.play()
         return
     plyr.setup(video);
+$(document).on('turbolinks:load', ready);

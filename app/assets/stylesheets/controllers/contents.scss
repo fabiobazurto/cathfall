@@ -2,6 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+
+
+
 .cf-img-poster{
 //  Resize perfectly images
   width: 180px;
@@ -12,4 +15,18 @@
   object-position: 25% 50%;
   transition: 1s all;
    margin-bottom: 5px;
+}
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  //CSS
+  .cf-img-poster{
+  //  Resize perfectly images
+    width: 130px;
+    height: 200px;
+  }
 }
